@@ -1,6 +1,6 @@
 === Area Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: area calculator, calculate area, surface area tool, land area calculation, room area calculator, property area estimator, square footage calculator, acreage calculator, geometry area calculator, space area calculation
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
