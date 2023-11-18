@@ -1,4 +1,4 @@
-# Area Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Area Calculator Widget for WordPress
 
 Area calculator to find the surface area of the following shapes - rectangle, triangle, circle, sector, ellipse, trapezoid, and parallelogram.
 
