@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Area Calculator by www.calculator.io
+Plugin Name: CI Area calculator
 Plugin URI: https://www.calculator.io/area-calculator/
 Description: Area calculator to find the surface area of the following shapes - rectangle, triangle, circle, sector, ellipse, trapezoid, and parallelogram.
 Version: 1.0.0
