@@ -1,4 +1,4 @@
-=== Area Calculator ===
+=== Area Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: area calculator, calculate area, surface area tool, land area calculation, room area calculator, property area estimator, square footage calculator, acreage calculator, geometry area calculator, space area calculation
 Requires at least: 5.0
