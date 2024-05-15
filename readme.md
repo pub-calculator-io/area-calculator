@@ -3,7 +3,6 @@
 Area calculator to find the surface area of the following shapes - rectangle, triangle, circle, sector, ellipse, trapezoid, and parallelogram.
 
 ![Area Calculator Input Form](/assets/images/screenshot-1.png "Area Calculator Input Form")
-![Area Calculator Calculation Results](/assets/images/screenshot-2.png "Area Calculator Calculation Results")
 
 ## Installation
 

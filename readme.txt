@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Area Calculator
 == Screenshots ==
 
 1. The Area Calculator Input Form.
-2. The Area Calculator Calculation Results.
 
 == Installation ==
 
